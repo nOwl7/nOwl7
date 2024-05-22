@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+"Though the road ahead is dangerous and difficult, we can only achieve our goals with constant efforts."
 <!--
 **nOwl7/nOwl7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
